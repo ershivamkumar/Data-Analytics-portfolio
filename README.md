@@ -36,3 +36,25 @@ Build real-world Data Analytics projects, improve problem-solving skills, and cr
 ---
 
 ⭐ More projects will be added as I continue learning.
+
+# Data Analytics Journey
+
+## Completed
+- Python Basics
+- Python Revision
+- NumPy Basics
+
+## In Progress
+- Pandas
+
+## Upcoming
+- Data Visualization
+- SQL
+- Excel
+- Power BI
+- Statistics
+- Machine Learning
+
+## Goal
+
+Become internship-ready by building real-world Data Analytics projects and documenting them professionally on GitHub.
