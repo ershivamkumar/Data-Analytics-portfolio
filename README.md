@@ -58,3 +58,16 @@ Build real-world Data Analytics projects, improve problem-solving skills, and cr
 ## Goal
 
 Become internship-ready by building real-world Data Analytics projects and documenting them professionally on GitHub.
+
+## 🎯 Current Focus
+
+I am currently focusing on becoming a Data Analyst by building real-world projects using:
+
+- Python
+- NumPy
+- Pandas
+- SQL
+- Excel
+- Power BI
+
+This repository will be updated regularly with hands-on projects and case studies as I progress.
