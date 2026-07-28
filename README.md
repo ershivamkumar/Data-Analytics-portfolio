@@ -71,3 +71,5 @@ I am currently focusing on becoming a Data Analyst by building real-world projec
 - Power BI
 
 This repository will be updated regularly with hands-on projects and case studies as I progress.
+
+_Last updated: July 2026 — Beginning my Data Analytics journey._
