@@ -43,15 +43,15 @@ Build real-world Data Analytics projects, improve problem-solving skills, and cr
 - Python Basics
 - Python Revision
 - NumPy Basics
-
-## In Progress
 - Pandas
-
-## Upcoming
-- Data Visualization
-- SQL
+- SQl
 - Excel
 - Power BI
+
+## In Progress
+- Data Visualization
+
+## Upcoming
 - Statistics
 - Machine Learning
 
