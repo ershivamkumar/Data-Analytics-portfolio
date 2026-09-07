@@ -13,3 +13,12 @@
 
 ---
 This log tracks my learning journey in Data Analytics.
+
+## September 7, 2026
+
+### Completed
+- Revised previously learned Python and Data Analytics concepts.
+- Collected and explored potential datasets for my next Data Analytics project.
+
+### Next Step
+- Select the best dataset and begin the project analysis.
