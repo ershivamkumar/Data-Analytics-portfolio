@@ -22,3 +22,15 @@ This log tracks my learning journey in Data Analytics.
 
 ### Next Step
 - Select the best dataset and begin the project analysis.
+
+## September 18, 2026
+
+### Today's Progress
+- Searched and shortlisted datasets for another Data Analytics project.
+- Revised previously learned Pandas concepts.
+- Started working again on my previous project.
+
+### Next Steps
+- Finalize the dataset for the new project.
+- Continue developing the previous project.
+- Apply Pandas concepts through hands-on analysis.
