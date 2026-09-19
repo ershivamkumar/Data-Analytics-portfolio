@@ -34,3 +34,15 @@ This log tracks my learning journey in Data Analytics.
 - Finalize the dataset for the new project.
 - Continue developing the previous project.
 - Apply Pandas concepts through hands-on analysis.
+
+## September 19, 2026
+
+### Today's Progress
+- Started learning Data Visualization for Data Analytics.
+- Revised and practiced Pandas concepts.
+- Learned about additional data formats and how Pandas works with different types of data.
+
+### Next Steps
+- Continue Matplotlib and Seaborn.
+- Practice creating different types of visualizations.
+- Apply visualization techniques to a real-world dataset.
