@@ -29,3 +29,5 @@ This folder contains my hands-on practice while learning Pandas for Data Analyti
 ## Next Step
 
 Apply these Pandas concepts to real-world Data Analytics projects.
+
+Did revision of Pandas and collecting some datasets for my project
