@@ -57,3 +57,15 @@ This log tracks my learning journey in Data Analytics.
 ### Next Steps
 - Continue Data Visualization.
 - Apply the revised concepts to a real-world dataset.
+
+## September 24, 2026
+
+### Today's Progress
+- Collected and reviewed new datasets from Kaggle for an e-commerce analytics dashboard.
+- Explored potential datasets for analyzing e-commerce sales and customer behavior.
+
+### Next Steps
+- Select the most suitable dataset(s).
+- Understand the data structure and relationships.
+- Start data cleaning and exploratory analysis.
+- Plan the dashboard metrics and visualizations.
