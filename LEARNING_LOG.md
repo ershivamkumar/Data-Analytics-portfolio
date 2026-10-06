@@ -69,3 +69,15 @@ This log tracks my learning journey in Data Analytics.
 - Understand the data structure and relationships.
 - Start data cleaning and exploratory analysis.
 - Plan the dashboard metrics and visualizations.
+
+
+## October 6, 2026
+
+### Retail Sales Performance Analysis
+- Continued working on the Retail Sales Performance Analysis project.
+- Prepared and reviewed the retail sales dataset for analysis.
+- Focused on data quality, structure, and consistency before starting deeper analysis.
+- Continued building the project toward EDA, SQL analysis, and Power BI visualization.
+
+### Key Learning
+- Data analysis should begin with proper dataset validation and cleaning before visualization and dashboard development.
