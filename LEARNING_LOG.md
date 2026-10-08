@@ -81,3 +81,15 @@ This log tracks my learning journey in Data Analytics.
 
 ### Key Learning
 - Data analysis should begin with proper dataset validation and cleaning before visualization and dashboard development.
+
+## October 8, 2026
+
+### Data Analytics Progress
+- Revised core Pandas concepts and data manipulation techniques.
+- Practiced working with structured datasets for analysis.
+- Continued strengthening the workflow from data preparation to analysis.
+- Reviewed previous concepts to improve consistency and practical understanding.
+
+### Key Learning
+- Data analysis starts with understanding and preparing the data before extracting insights.
+- Consistent revision and hands-on practice are important for building strong analytical skills.
